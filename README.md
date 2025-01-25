@@ -1,2 +1,3 @@
-# Q-Flutter1
-My Flutter App
+# flutter_app
+
+A new Flutter project.
