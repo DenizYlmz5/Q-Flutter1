@@ -1,4 +1,7 @@
 //uygulamada sayfaları ve navigasyon işlemlerini burada tanımlıcaz
+import 'package:flutter_app/screens/profile_screen.dart';
+import 'package:flutter_app/screens/search_screen.dart';
+import 'package:flutter_app/screens/voice_screen.dart';
 import 'package:go_router/go_router.dart';
 import '../screens/loading_screen.dart';
 import '../screens/home_screen.dart';
@@ -15,5 +18,17 @@ final router = GoRouter(
       path: '/home',
       builder: (context, state) => const HomeScreen(),
     ),
+    GoRoute(
+      path: '/profile',
+      builder: (contex, state) => const ProfileScreen(),
+    ),
+    GoRoute(
+      path: '/voice',
+      builder: (contex, state) => const VoiceScreen(),
+    ),
+    GoRoute(
+      path: '/search',
+      builder: (contex, state) => const SearchScreen(),
+    )
   ],
 );
