@@ -1,7 +1,7 @@
 # flutter_app
 
 Proje Hakkında
-[Bu uygulama kişisel hayalimizdeki mağazamızın uygulamasıdır.  Kullanıcılarımıza veya hitap ettiğimiz online alışveriş kitlesine fiziksel olarak zaman kazandırarak  Beğenilen ve ihtiyaç duyulan ürünleri kategori olarak arayabilme imkanı sunar geliştirilme aşamasında ise ilerleyen süreçte oturum açma , kaydolma ve sipariş oluşturma özellikleri de sunmaya hazırlanacaktır.]
+[Bu uygulama Tatlıların Yemek tariflerini ve nasıl yapıldığını bize vericektir]
 
 Ekibimiz
 Danışman:
@@ -9,6 +9,8 @@ Danışman:
 
 Takım Üyeleri:
 [https://github.com/DenizYlmz5] (Deniz Yılmaz)
+
+
 Özellikler
 [Ana özellik 1]
 
@@ -63,9 +65,9 @@ Ekran Görüntüleri
 Projeye Katkı Sağlama
 Projeyi forklayın
 
-Yeni bir dal oluşturun (git checkout -b ozellik/YeniOzellik)
+Yeni bir dal oluşturun (git checkout ozellik/YeniOzellik)
 
-Değişikliklerinizi kaydedin (git commit -m 'Yeni özellik eklendi')
+Değişikliklerinizi kaydedin (git commit 'Yeni özellik eklendi')
 
 Dalınıza gönderin (git push origin ozellik/YeniOzellik)
 
@@ -75,7 +77,7 @@ Lisans
 [Lisans türü] kapsamında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
 
 
-İstinye Üniversitesi: https://www.istinye.edu.tr/
+İstinye Üniversitesi: [https://www.istinye.edu.tr/]
 
 Teşekkürler
 İstinye Üniversitesi'ne destekleri için teşekkür ederiz
