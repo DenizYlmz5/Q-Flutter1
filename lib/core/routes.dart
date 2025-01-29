@@ -16,6 +16,10 @@ final router = GoRouter(
       builder: (context, state) => const LoadingScreen(),
     ),
     GoRoute(
+      path: '/',
+      builder: (context, state) => const LoadingScreen(),
+    ),
+    GoRoute(
       path: '/home',
       builder: (context, state) => const HomeScreen(),
     ),
