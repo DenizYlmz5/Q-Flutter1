@@ -1,7 +1,9 @@
 //uygulamada sayfaları ve navigasyon işlemlerini burada tanımlıcaz
+import 'package:flutter_app/main.dart';
 import 'package:flutter_app/screens/favori_screen.dart';
 import 'package:flutter_app/screens/profile_screen.dart';
 import 'package:flutter_app/screens/search_screen.dart';
+import 'package:flutter_app/screens/settings_screen.dart';
 import 'package:flutter_app/screens/voice_screen.dart';
 import 'package:go_router/go_router.dart';
 import '../screens/loading_screen.dart';
@@ -15,10 +17,7 @@ final router = GoRouter(
       path: '/',
       builder: (context, state) => const LoadingScreen(),
     ),
-    GoRoute(
-      path: '/',
-      builder: (context, state) => const LoadingScreen(),
-    ),
+    GoRoute(path: '/Settings', builder: (context, state) => SettingsPage()),
     GoRoute(
       path: '/home',
       builder: (context, state) => const HomeScreen(),
