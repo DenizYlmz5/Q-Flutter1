@@ -1,4 +1,5 @@
 //uygulamada sayfaları ve navigasyon işlemlerini burada tanımlıcaz
+import 'package:flutter_app/screens/favori_screen.dart';
 import 'package:flutter_app/screens/profile_screen.dart';
 import 'package:flutter_app/screens/search_screen.dart';
 import 'package:flutter_app/screens/voice_screen.dart';

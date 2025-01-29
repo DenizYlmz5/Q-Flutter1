@@ -40,14 +40,6 @@ class BottomMenu extends StatelessWidget {
           ),
           IconButton(
             onPressed: () {
-              context.go("/c");
-            },
-            icon: Icon(
-              CupertinoIcons.command,
-            ),
-          ),
-          IconButton(
-            onPressed: () {
               context.go("/profile");
             },
             icon: Icon(
