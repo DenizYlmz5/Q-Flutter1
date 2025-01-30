@@ -3,7 +3,7 @@
 # Proje Hakkında
 [Bu uygulama Tatlıların Yemek tariflerini ve nasıl yapıldığını bize vericektir]
 
-Ekibimiz
+# Ekibimiz
 Danışman:
 [https://github.com/keyvanarasteh] (Keyvan Arasteh)
 
@@ -11,25 +11,25 @@ Takım Üyeleri:
 [https://github.com/DenizYlmz5] (Deniz Yılmaz)
 
 
-Özellikler
+# Özellikler
 [Ana özellik 1]
 
 [Ana özellik 2]
 
 [Ana özellik 3]
 
-Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 Flutter
 
 Dart
 
-Başlangıç
+# Başlangıç
 Gereksinimler
 Flutter SDK (82.1.2)
 
 Dart SDK (241.18808)
 
-Kurulum Adımları
+# Kurulum Adımları
 Projeyi bilgisayarınıza indirin:
   
 git  clone [proje-adresi]  
@@ -45,7 +45,7 @@ flutter  pub  get
 Uygulamayı başlatın:
   
  flutter  run  
-Proje Yapısı
+# Proje Yapısı
   
 lib/  
   
@@ -59,7 +59,7 @@ lib/
   
 └── yardımcılar/ # Yardımcı fonksiyonlar  
   
-Ekran Görüntüleri
+# Ekran Görüntüleri
 [Uygulama ekran görüntüleri buraya eklenecek]
 
 Projeye Katkı Sağlama
@@ -73,13 +73,13 @@ Dalınıza gönderin (git push origin ozellik/YeniOzellik)
 
 Pull Request oluşturun
 
-Lisans
+# Lisans
 [Lisans türü] kapsamında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
 
 
 İstinye Üniversitesi: [https://www.istinye.edu.tr/]
 
-Teşekkürler
+# Teşekkürler
 İstinye Üniversitesi'ne destekleri için teşekkür ederiz
 
 [Diğer teşekkürler]
