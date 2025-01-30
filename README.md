@@ -90,6 +90,11 @@ Pull Request oluşturun
 # Video
 
 
+https://github.com/user-attachments/assets/3ca17aa7-ce86-450f-98e9-c50b5c8800b3
+
+
+
+
 # Teşekkürler
 İstinye Üniversitesi'ne destekleri için teşekkür ederiz
 
