@@ -87,6 +87,9 @@ Pull Request oluşturun
 
 İstinye Üniversitesi: [https://www.istinye.edu.tr/]
 
+# Video
+
+
 # Teşekkürler
 İstinye Üniversitesi'ne destekleri için teşekkür ederiz
 
