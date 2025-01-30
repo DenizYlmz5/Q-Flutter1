@@ -1,6 +1,6 @@
 # Flutter Projesi
 
-Proje Hakkında
+# Proje Hakkında
 [Bu uygulama Tatlıların Yemek tariflerini ve nasıl yapıldığını bize vericektir]
 
 Ekibimiz
